@@ -1,0 +1,49 @@
+_repo: Sylvie--souvenirs-du-Valois_40492
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  translator:
+    agent_name: Page, Lucie (Lucie Elizabeth)
+    alias: Borden, Lucie Elizabeth Page
+    gutenberg_agent_id: '40655'
+    url: http://www.gutenberg.org/2009/agents/40655
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nerval, Gérard de
+    aliases:
+    - Labrunie, Gérard
+    - Puycousin, Édouard de
+    - Nerval, Gerard de
+    - Puycousin, Edouard de
+    - Beuglant
+    - Cadet-Roussel
+    birthdate: 1808
+    deathdate: 1855
+    gutenberg_agent_id: '6559'
+    url: http://www.gutenberg.org/2009/agents/6559
+    wikipedia: http://en.wikipedia.org/wiki/Gérard_de_Nerval
+description: ''
+gutenberg_issued: '2012-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Unrequited love -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+title: 'Sylvie: souvenirs du Valois'
+url: http://www.gutenberg.org/ebooks/40492
